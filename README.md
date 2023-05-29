@@ -51,8 +51,10 @@
       <!-- <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Nextcord" src="https://custom-icon-badges.demolab.com/badge/Nextcord-0d1620.svg?logo=nextcord"></a> -->
-      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="https://github.com/TFM-HITESH/Python_Mathematical_Libraries/tree/main/Numpy"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="https://github.com/TFM-HITESH/Python_Mathematical_Libraries/tree/main/Pandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="https://github.com/TFM-HITESH/Python_Mathematical_Libraries/tree/main/SciPy"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-10458.svg?logo=scipy&logoColor=white&color=770288"></a>
+      <a href="https://github.com/TFM-HITESH/Python_Mathematical_Libraries/tree/main/Matplotlib"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-10458.svg?logo=matplotlib&logoColor=white&color=red"></a>
       <!-- <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Praw" src="https://custom-icon-badges.demolab.com/badge/Praw-ff3c0c.svg?logo=praw"></a> -->
       <!-- <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a> -->
