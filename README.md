@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hitesh Shivkumar
+### a.k.a tfm_hitesh
+
+**`Silicon Sorcerer {Student, Thinker, Developer}`**
 
 <!--
 **TFM-HITESH/TFM-HITESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
