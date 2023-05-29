@@ -75,7 +75,7 @@
       <!-- <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a> -->
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <!-- <h3>🗄️ Databases and Cloud Hosting</h3> -->
 
   <p>
       <!-- <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a> -->
