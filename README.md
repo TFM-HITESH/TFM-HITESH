@@ -14,6 +14,8 @@
   To add custom images, download the image as png. Then go to resizing website to make the image small https://www.simpleimageresizer.com/
   Then go to base64 converter to convert the image to text : https://www.base64-image.de/
   Then paste it as ?logo=data:image/png;base64,…
+
+  Source for good logo images : https://simpleicons.org/
   -->
   
   <h3>👨‍💻 Programming and Markup Languages</h3>
