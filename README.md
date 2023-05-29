@@ -6,7 +6,12 @@
 <details> 
   <summary><h2>🛠️ Tools I use :</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+  
+  <!-- How to use badges : https://shields.io/ : 
+  Syntax : https://img.shields.io/badge/Name_of_Badge(Text)-10458.svg? logo=logo_name&logoColor=somecolor&color=ffffff&style=for-the-badge&attribute&attribute&attribute
+  Eg : https://img.shields.io/badge/SciPy-10458.svg?logo=scipy&logoColor=white&color=880288&style=for-the-badge
+  -->
+  
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
