@@ -3,7 +3,7 @@
 
 **`Silicon Sorcerer {Student, Thinker, Developer}`**
 
-<details> 
+ 
   <summary><h2>🛠️ Tools I use :</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   
@@ -31,24 +31,24 @@
       </a>
       <!-- <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Ceylon" src="https://custom-icon-badges.demolab.com/badge/Ceylon-E39842.svg?logo=ceylon&logoColor=white"></a> -->
-      <a href="#">
+      <a href="https://github.com/TFM-HITESH/VITrade-DevSoc23">
         <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
       </a>
       <a href="#">
         <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white&style=for-the-badge">
       </a>
-      <a href="#">
+      <a href="https://github.com/TFM-HITESH/VITrade-DevSoc23">
         <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
       </a>
       <!-- <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> -->
-      <a href="#">
+      <a href="https://github.com/TFM-HITESH/VITrade-DevSoc23">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
       </a>
       <a href="#">
         <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white&style=for-the-badge">
       </a>
       <!-- <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a> -->
-      <a href="#">
+      <a href="https://github.com/TFM-HITESH/VITrade-DevSoc23">
         <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge">
       </a>
       <!-- <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a> -->
@@ -146,7 +146,7 @@
       <!-- <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a> -->
       <!-- <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a> -->
-      <a href="#">
+      <a href="https://github.com/TFM-HITESH/Python_Mathematical_Libraries">
         <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge">
       </a>
       <a href="#">
@@ -162,7 +162,7 @@
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
       </a>
   </p>
-</details>
+
 
 <!--
 **TFM-HITESH/TFM-HITESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
