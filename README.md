@@ -163,6 +163,16 @@
       </a>
   </p>
 
+<!--
+## Contribution Graph
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=TFM-HITESH&theme=github" alt="TFM-HITESH" /></p> -->
+
+## GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TFM-HITESH&show_icons=true&theme=react&count_private=true" alt="TFM-HITESH" /></p>
+
+## Top Languages
+<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=TFM-HITESH&layout=compact&hide=html&theme=react" alt="TFM-HITESH" /></p> 
+
 
 <!--
 **TFM-HITESH/TFM-HITESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
