@@ -176,6 +176,8 @@
 ## Top Languages
 <p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=TFM-HITESH&layout=compact&hide=html&theme=react" alt="TFM-HITESH" /></p> 
 
+[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFM-HITESH&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **TFM-HITESH/TFM-HITESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
