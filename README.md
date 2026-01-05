@@ -170,13 +170,13 @@
 ## My Badge Board
 [![An image of @tfm_hitesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tfm_hitesh)](https://holopin.io/@tfm_hitesh)
 
-## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TFM-HITESH&&show_icons=true&theme=react"/></p>
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/TFM-HITESH/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/TFM-HITESH/github-stats-transparent/output/generated/languages.svg)
 
-## Top Languages
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=TFM-HITESH&layout=compact&hide=html&theme=react" alt="TFM-HITESH" /></p> 
-
-[![Hitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=TFM-HITESH&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 
 <!--
